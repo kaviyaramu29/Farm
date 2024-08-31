@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/i-dipanshu/krishi-bazaar#readme",
   "scripts": {
-    "start": "expo start",
+    "start": "node src/index.js",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web"

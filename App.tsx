@@ -44,7 +44,7 @@ export default function App() {
           name="Home"
           component={Home}
           options={({ navigation, route }) => ({
-            headerTitle: "Kisaan Bazaar",
+            headerTitle: "Farmconnect",
             // Add a placeholder button without the `onPress` to avoid flicker
             headerRight: () => (
               <TouchableOpacity onPress={() => navigation.navigate("Contact")}>
